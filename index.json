@@ -1,0 +1,9 @@
+{
+    "latest": {
+        "version": "33.0.3",
+        "dl": {
+            "minimal": "https://github.com/shashankx86/adb-fastboot_installer/releases/download/Minimal_r33.0.3/minimal_adb-fastboot_r33.0.3.zip",
+            "complete": "https://dl.google.com/android/repository/platform-tools_r33.0.3-windows.zip"
+        }
+    }
+}
